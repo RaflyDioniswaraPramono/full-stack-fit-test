@@ -37,9 +37,9 @@ Berikut ini merupakan tutorial cara instal aplikasi yang dimulai dari backend ke
 
 ### Hasil Pengerjaan dan Tampilan Per Fitur
 1. Design ERD
-![Alt text](/assets/ERD.png)
+![Alt text](/assets/ERD.jpg)
 2. Halaman Login
-![Alt text](/assets/Login.png)
+![Alt text](/assets/login.png)
 3. Halaman Utama
 ![Alt text](/assets/main-menu.png)
 4. Manajemen Rumah
